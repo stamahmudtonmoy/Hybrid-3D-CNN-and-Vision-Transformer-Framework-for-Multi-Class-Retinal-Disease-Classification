@@ -14,9 +14,13 @@ The work was developed as part of an academic research project and presented at 
 
 ## 🧠 Model Architecture
 
-* 3D-CNN: Extracts spatial and volumetric features from retinal image data
-* Vision Transformer (ViT): Captures long-range dependencies using self-attention
-* Fully Connected Layers: Perform final multi-class classification
+* InceptionV3
+* EfficientNETB0
+* ResNET18
+* VGG16
+* ViT
+* Swin
+* Hybrid 3D-CNN + ViT
 
 This hybrid design allows the model to balance fine-grained local patterns with global feature representation.
 
