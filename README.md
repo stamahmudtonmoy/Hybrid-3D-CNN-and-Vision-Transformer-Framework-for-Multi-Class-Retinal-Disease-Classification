@@ -72,7 +72,6 @@ This hybrid design allows the model to balance fine-grained local patterns with 
   
 ## 📈 Results
 🔥 Performance Comparison
-## 📈 Results
 
 | Model                 | Accuracy | Precision | Recall | F1-score |
 |----------------------|----------|----------|--------|----------|
