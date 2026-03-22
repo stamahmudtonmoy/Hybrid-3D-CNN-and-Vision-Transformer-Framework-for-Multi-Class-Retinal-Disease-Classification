@@ -19,15 +19,6 @@ The model leverages:
 * ✅ Conducted an ablation study to validate architectural improvements
 
 ## 🧠 Model Architecture
-
-* InceptionV3
-* EfficientNETB0
-* ResNET18
-* VGG16
-* ViT
-* Swin
-* Hybrid 3D-CNN + ViT
-  
 🔹 Hybrid Design
 * 3D-CNN Branch
   * Input: 4 stacked slices (original + augmented variants)
