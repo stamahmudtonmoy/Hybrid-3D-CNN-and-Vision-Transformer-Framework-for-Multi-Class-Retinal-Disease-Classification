@@ -8,7 +8,7 @@ The model leverages:
 * Transformers → Global contextual understanding
 * 3D volumetric representation → Depth-aware retinal analysis
 
-📍 The work was developed as part of an academic research project and presented at IEEE BECITHCON 2025.
+📍 The work was developed as part of an academic research project, presented and accepted at IEEE BECITHCON 2025.
 
 ## 🎯 Key Objectives
 
@@ -139,6 +139,8 @@ This work was presented at:
 
 ### IEEE BECITHCON 2025
 Hybrid 3D-CNN and Vision Transformer Framework for Multi-Class Retinal Disease Classification
+
+To access the article: [Visit IEEE Xplore](https://ieeexplore.ieee.org/document/11504285?fbclid=IwY2xjawR81KBleHRuA2FlbQIxMABicmlkETFkbnNLWlgwbGdjSGttWFllc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlttSS27j-PLuWN0lNEa_ud-hBOM2QtUjSs-AGbHTwixD7VW7q7Z31xYGDf6_aem__kz5IwglQUP57uQjOk1lbg)
 
 ## 👨‍💻 My Contributions (S T A Mahmud Tonmoy)
 * Designed Hybrid 3D-CNN + ViT architecture
