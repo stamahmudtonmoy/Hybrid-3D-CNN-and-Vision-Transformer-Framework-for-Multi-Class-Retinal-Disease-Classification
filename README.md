@@ -33,7 +33,7 @@ This hybrid design allows the model to balance fine-grained local patterns with 
 
 ## 📊 Dataset & Preprocessing
 
-* Dataset: Retinal OCT Image Classification – C8
+* 🛢️ Dataset: [Retinal OCT Image Classification - C8](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)
 * Total Images: 24,000
 * Classes (8):
   * AMD, CNV, DME, Drusen, MH, DR, CSR, Normal
@@ -42,8 +42,6 @@ This hybrid design allows the model to balance fine-grained local patterns with 
 * Training: 18,400
 * Validation: 2,800
 * Test: 2,800
-
-⚠️ Dataset files are not included in this repository due to privacy and size constraints.
 
 ## ⚙️ Preprocessing Pipeline
 * Image resizing:
